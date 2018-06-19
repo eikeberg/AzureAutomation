@@ -1,0 +1,2 @@
+# AzureAutomation
+azure automation training
